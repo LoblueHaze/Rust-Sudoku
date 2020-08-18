@@ -11,7 +11,7 @@
 use std::{thread, time};
 
 const SIZE: usize = 9;
-const DO_ANIMATION: bool = false;
+const DO_ANIMATION: bool = true;
 
 #[derive(Debug, Copy, Clone)]
 struct Game {
