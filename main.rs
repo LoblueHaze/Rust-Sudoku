@@ -4,10 +4,9 @@
  * By Loblue Haze <loblue.haze@gmail.com>
  * Reference: https://www.codesdope.com/blog/article/solving-sudoku-with-backtracking-c-java-and-python/
  * Basically, this is the rust version of the python code in the reference.
- * Be aware of the flicker in the terminal. I tried to do some animation, but I couldn't find the solution to the flickering.
  * If you don't want animation, set DO_ANIMATION to false.
  *
-*/
+ */
 
 use std::{thread, time};
 
